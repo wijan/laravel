@@ -1,14 +1,27 @@
 # Blog sobre desarrollo de aplicaciones con el Framework de PHP Laravel
 
+## Sobre Laravel
+Laravel es un framework para desarrollo de aplicaciones con una sintaxis expresiva y elegante. El desarrollo debe ser agradable, una experiencia que satisfaga. Laravel pretende eliminar la frustración que se suele encontrar en las tareas mas comunes en el desarrollo en la mayoría de proyectos web, como autenticación, enrutamiento, encolamiento, etc...
+
+Laravel es accessible, potente, proveyendo herramientas para grandes y robustas aplicaciones. Una buena inversión en el control, en migraciones expresivas, y un soporte de testeo da las herramientas necesarias para poder construir las aplicaciones que tengamos pendientes.
 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+## ¿Qué aprenderemos?
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+En este blog iré añadiendo posts con diferentes explicaciones de lo que podemos hacer con este framework. El objetivo es ser capaces de poder usar una aplicación robusta, escalable, con diferentes módulos y de ser posible, reutilizable en diferentes webs.
 
-## Official Documentation
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+## ¿Quién soy?
+
+Mi nombre es Wijan Ruiz, y soy un apasionado de la programación en general. ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png) Estudié un ciclo superior de Desarrollo de Aplicaciones Web en donde me enseñaron a programar en Java y Python. Desde el inicio del mismo he sido bastante autodidacta, aprendiendo otros lenguajes cómo C# o PHP, aunque últimamente estoy muy interesado en los lenguajes de programación funcionales que están apareciendo, cómo Elixir.
+
+También me he interesado en los frameworks de desarrollo web de los lenguajes que he mencionado cómo Django(Python) y Laravel(PHP) y ahora estoy estudiando en profundidad Phoenix(Elixir).
+
+Cabe destacar que este es un blog autodidáctico y puede que en ocasiones introduzca algún post que tenga información que no sea del todo correcta, pero estaré constantemente revisando para intentar corregirlo cuándo se den estos casos.
+
+## Documentación Oficial
+
+Documentación oficial del framework [Laravel website](http://laravel.com/docs).
 
 ## Contributing
 
