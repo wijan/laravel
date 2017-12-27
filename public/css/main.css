@@ -1,0 +1,33 @@
+main{
+    width:90%;
+    margin-left: 5%;
+}
+#title{
+    width:50%;
+}
+.form-group{
+    margin-top:10px;
+}
+.title-panel{
+    width:66%;
+    font-size: 20px;
+}
+.user-panel{
+    float: right;
+}
+.score{
+    float: right;
+}
+.lessonContent{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+.lessonTitle{
+    text-decoration: underline;
+    margin-bottom: 25px;
+}
+
+.navbar-right{
+    margin-right: 5%;
+}
