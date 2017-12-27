@@ -13,8 +13,8 @@ En este blog iré añadiendo posts con diferentes explicaciones de lo que podemo
 
 ## ¿Quién soy?
 
-<img src="https://github.com/wijan/laravel/blob/master/public/images/lovecoding.jpg" alt="alt text" width="100" height="100">
-Mi nombre es Wijan Ruiz, y soy un apasionado de la programación en general. ![](https://github.com/wijan/laravel/blob/master/public/images/lovecoding.jpg | width =100) Estudié un ciclo superior de Desarrollo de Aplicaciones Web en donde me enseñaron a programar en Java y Python. Desde el inicio del mismo he sido bastante autodidacta, aprendiendo otros lenguajes cómo C# o PHP, aunque últimamente estoy muy interesado en los lenguajes de programación funcionales que están apareciendo, cómo Elixir.
+
+Mi nombre es Wijan Ruiz, y soy un apasionado de la programación en general.<img src="https://github.com/wijan/laravel/blob/master/public/images/lovecoding.jpg" alt="alt text" width="100" height="100">  Estudié un ciclo superior de Desarrollo de Aplicaciones Web en donde me enseñaron a programar en Java y Python. Desde el inicio del mismo he sido bastante autodidacta, aprendiendo otros lenguajes cómo C# o PHP, aunque últimamente estoy muy interesado en los lenguajes de programación funcionales que están apareciendo, cómo Elixir.
 
 También me he interesado en los frameworks de desarrollo web de los lenguajes que he mencionado cómo Django(Python) y Laravel(PHP) y ahora estoy estudiando en profundidad Phoenix(Elixir).
 
