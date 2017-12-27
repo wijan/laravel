@@ -11,6 +11,12 @@ Laravel es accessible, potente, proveyendo herramientas para grandes y robustas 
 En este blog iré añadiendo posts con diferentes explicaciones de lo que podemos hacer con este framework. El objetivo es ser capaces de poder usar una aplicación robusta, escalable, con diferentes módulos y de ser posible, reutilizable en diferentes webs.
 
 
+## ¿Con qué frecuencia habrá entradas?
+
+Cómo mínimo habrá una entrada cada 15 días, pero es posible que en periodos en los que disponga de más tiempo pueda realizar más entradas, pero garantizo que habrá 1 entrada cada 15 días, es decir 2 al mes.
+Además más adelante es probable que inicie una serie de videos tutoriales que tendrán como contenido las diferentes entradas de este blog, pero de forma reducida y visual.
+
+
 ## ¿Quién soy?
 
 
